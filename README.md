@@ -1,1 +1,2 @@
 # MINING-FREQUENT-ITEM-SETS-ON-TEMPORAL-DATA.
+Abstract : Temporal data contain time-stamping information that affects the results of data mining. Traditional techniques for finding frequent itemsets assume that datasets are static. Here, we are improving the efficiency of mining frequent itemsets on temporal data. Since patterns can hold in either all or some of the intervals, This is a new algorithm to restrict time intervals, which is called frequent itemset mining with time cubes.
